@@ -2,6 +2,11 @@
 
 + hello
 - Hello, what is your name?
+- Hi, what is your name?
+
++ hi
+- Hello, what is your name?
+- Hi, what is your name?
 
 + _
 % hello what is your name
